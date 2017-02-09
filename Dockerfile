@@ -1,6 +1,6 @@
 FROM java:8
 
-ENV UNIFI_VERSION=unifi5 \
+ENV UNIFI_VERSION=oldstable \
     DEBIAN_FRONTEND=noninteractive \
     LC_ALL=C.UTF-8 \
     LANG=en_US.UTF-8 \
